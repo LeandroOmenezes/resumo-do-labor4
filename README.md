@@ -63,7 +63,7 @@ e funções.
 
 * Pacote de sistema operacional completo, incluindo o sistema operacional do host.
 
-![Imagem do Portal AZURE](vm.png)
+![Imagem do Portal AZURE](VM.png)
 
 ### Área de trabalho Virtual
 
