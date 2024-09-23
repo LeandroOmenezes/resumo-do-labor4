@@ -62,7 +62,9 @@ e funções.
 * Útil para migrações de lift-and-shift para a nuvem.
 
 * Pacote de sistema operacional completo, incluindo o sistema operacional do host.
- 
+
+![Imagem do Portal AZURE](vm.png)
+
 ### Área de trabalho Virtual
 
 * Fornece uma experiência de área de trabalho do Windows baseada em nuvem.
